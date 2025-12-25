@@ -22,3 +22,6 @@ This repository documents the steps I learned to launch and configure an AWS EC2
 - Understanding virtual servers in AWS
 - Basics of cloud security
 - Importance of IAM and security groups
+
+## Status
+Actively learning AWS and updating this repository.

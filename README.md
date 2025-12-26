@@ -25,3 +25,22 @@ This repository documents the steps I learned to launch and configure an AWS EC2
 
 ## Status
 Actively learning AWS and updating this repository.
+
+
+## After Launch – Basic Setup
+
+### Instance Checks
+- Verify instance state is running
+- Check public IP and connectivity
+- Ensure security group allows SSH (port 22)
+
+### Basic Server Setup
+- Update packages
+  sudo apt update && sudo apt upgrade -y
+
+- Install basic tools
+  sudo apt install nginx -y
+
+### Verification
+- Access Nginx using public IP in browser
+- Confirm default Nginx page loads

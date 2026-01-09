@@ -52,9 +52,6 @@ chmod 400 my-key.pem
 
 ssh -i my-key.pem ubuntu@<EC2_PUBLIC_IP>
 
-Replace:
-- my-key.pem → your key pair name
-- <EC2_PUBLIC_IP> → EC2 public IPv4 address
 
  Successful connection
  Once connected, you will be logged into the EC2 Linux server and can start managing the system.

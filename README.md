@@ -29,7 +29,7 @@ Actively learning AWS and updating this repository.
 
 ## After Launch – Basic Setup
 
-### Instance Checks
+## Instance Checks
 - Verify instance state is running
 - Check public IP and connectivity
 - Ensure security group allows SSH (port 22)

@@ -53,7 +53,7 @@ chmod 400 my-key.pem
 ssh -i my-key.pem ubuntu@<EC2_PUBLIC_IP>
 
 
- Successful connection
+ 
  Once connected, you will be logged into the EC2 Linux server and can start managing the system.
 
  ##Why SSH is Important

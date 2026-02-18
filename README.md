@@ -56,6 +56,6 @@ ssh -i my-key.pem ubuntu@<EC2_PUBLIC_IP>
  
  Once connected, you will be logged into the EC2 Linux server and can start managing the system.
 
- ##Why SSH is Important
+ W
 
 SSH provides a secure way to manage cloud servers remotely and is a core skill for DevOps engineers.
